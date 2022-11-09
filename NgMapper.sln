@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NgMapper", "src\NgMapper\NgMapper.csproj", "{43D34CE1-7870-4252-BB84-FD2C861B6D92}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Samples", "src\Samples\Samples.csproj", "{FF68CE22-1898-40E3-B779-50F697C8A8A7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NgMapper.Helper", "src\NgMapper.Helper\NgMapper.Helper.csproj", "{4F6094D2-1177-4BEE-A818-0041C773232B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43D34CE1-7870-4252-BB84-FD2C861B6D92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43D34CE1-7870-4252-BB84-FD2C861B6D92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43D34CE1-7870-4252-BB84-FD2C861B6D92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43D34CE1-7870-4252-BB84-FD2C861B6D92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF68CE22-1898-40E3-B779-50F697C8A8A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF68CE22-1898-40E3-B779-50F697C8A8A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF68CE22-1898-40E3-B779-50F697C8A8A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF68CE22-1898-40E3-B779-50F697C8A8A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F6094D2-1177-4BEE-A818-0041C773232B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F6094D2-1177-4BEE-A818-0041C773232B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F6094D2-1177-4BEE-A818-0041C773232B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F6094D2-1177-4BEE-A818-0041C773232B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30DFEDDA-17CF-463B-B793-FB0DD68BB1AC}
+	EndGlobalSection
+EndGlobal
