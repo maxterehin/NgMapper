@@ -28,7 +28,7 @@ namespace Samples
 	}
 }
 
-//This code will be generate
+//After described configs (SampleDto, MapConfig) will be generate this code
 
 //using System;
 //namespace Samples
